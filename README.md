@@ -24,10 +24,6 @@
 * Number of streams for the top song :
 ![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/cb5f8e0e-e3dd-43fd-840b-31a4bed56ed2)
 
-* Top song streams value VS Average streams per year:
-![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/cef7f0dc-3b87-4553-a0ce-b0910fb01236)
-![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/2120e2b9-834e-4db0-8bf4-3e8dc1bc0068)
-
 * Top 10 artists by streams:
 ![image](https://github.com/imenbkr/Power-Bi-dashboards/assets/104791884/c15db10a-cd04-490a-9962-be90af8b108d)
 
